@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toruka Launcher</string>
+    <string name="app_name_short">Toruka</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Главная</string>
+    <string name="nav_versions">Версии</string>
+    <string name="nav_mods">Моды</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_accounts">Аккаунты</string>
+
+    <!-- Home Screen -->
+    <string name="play">Играть</string>
+    <string name="downloading">Загрузка…</string>
+    <string name="installing">Установка…</string>
+    <string name="launching">Запуск…</string>
+    <string name="no_account">Нет аккаунта</string>
+    <string name="select_version">Выберите версию</string>
+    <string name="latest_release">Последний релиз</string>
+    <string name="latest_snapshot">Последний снапшот</string>
+
+    <!-- Version Screen -->
+    <string name="versions_title">Версии Minecraft</string>
+    <string name="release">Релиз</string>
+    <string name="snapshot">Снапшот</string>
+    <string name="beta">Beta</string>
+    <string name="alpha">Alpha</string>
+    <string name="installed">Установлено</string>
+    <string name="not_installed">Не установлено</string>
+    <string name="install">Установить</string>
+    <string name="uninstall">Удалить</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Настройки</string>
+    <string name="general">Общие</string>
+    <string name="video">Видео</string>
+    <string name="controls">Управление</string>
+    <string name="java">Java</string>
+    <string name="memory">Память</string>
+    <string name="renderer">Рендерер</string>
+    <string name="resolution">Разрешение</string>
+    <string name="game_directory">Директория игры</string>
+    <string name="jvm_arguments">JVM аргументы</string>
+    <string name="game_arguments">Аргументы игры</string>
+
+    <!-- Renderer options -->
+    <string name="renderer_gl4es">GL4ES (OpenGL 2.1)</string>
+    <string name="renderer_virgl">VirGL (OpenGL 4.3)</string>
+    <string name="renderer_zink">Zink (Vulkan)</string>
+    <string name="renderer_angle">ANGLE (Direct3D/Vulkan)</string>
+
+    <!-- Accounts -->
+    <string name="accounts_title">Аккаунты</string>
+    <string name="add_account">Добавить аккаунт</string>
+    <string name="microsoft_account">Microsoft</string>
+    <string name="mojang_account">Mojang</string>
+    <string name="offline_account">Офлайн</string>
+    <string name="login_microsoft">Войти через Microsoft</string>
+    <string name="login_offline">Офлайн режим</string>
+    <string name="username">Имя пользователя</string>
+    <string name="logout">Выйти</string>
+
+    <!-- Errors -->
+    <string name="error_no_internet">Нет подключения к интернету</string>
+    <string name="error_download_failed">Ошибка загрузки</string>
+    <string name="error_install_failed">Ошибка установки</string>
+    <string name="error_launch_failed">Ошибка запуска</string>
+    <string name="error_no_java">Java Runtime не найдена</string>
+    <string name="error_no_version">Версия не установлена</string>
+    <string name="error_no_account_selected">Аккаунт не выбран</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm">Подтвердить</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_delete_title">Удалить?</string>
+    <string name="dialog_delete_message">Это действие нельзя отменить.</string>
+    <string name="dialog_download_title">Загрузка</string>
+    <string name="dialog_install_title">Установка</string>
+
+    <!-- Game -->
+    <string name="game_crashed">Игра аварийно завершилась</string>
+    <string name="game_exit_code">Код выхода: %1$d</string>
+    <string name="view_crash_log">Просмотр лога</string>
+</resources>
